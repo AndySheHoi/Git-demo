@@ -1,4 +1,8 @@
-# Simple Git Cheat Sheet
+# Gitdemo
+
+Simple Git Cheat Sheet
+
+
 
 # show the git version
 git --version
